@@ -1,0 +1,6 @@
+fyre-tattoo-app/
+├── package.json
+├── public/
+│   └── index.html
+└── src/
+    └── App.js
